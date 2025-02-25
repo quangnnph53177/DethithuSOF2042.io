@@ -1,0 +1,14 @@
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\bin\Debug\net8.0\Dethithu.exe
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\bin\Debug\net8.0\Dethithu.deps.json
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\bin\Debug\net8.0\Dethithu.runtimeconfig.json
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\bin\Debug\net8.0\Dethithu.dll
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\bin\Debug\net8.0\Dethithu.pdb
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.AssemblyInfoInputs.cache
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.AssemblyInfo.cs
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.csproj.CoreCompileInputs.cache
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.dll
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\refint\Dethithu.dll
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.pdb
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\Dethithu.genruntimeconfig.cache
+D:\FPT POLYTECHNIC\SOF3034\Ontap_SOF3042\Dethithu\obj\Debug\net8.0\ref\Dethithu.dll
